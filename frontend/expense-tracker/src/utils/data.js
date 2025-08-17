@@ -12,4 +12,10 @@ export const SIDE_MENU_DATA = [
     icon: LuLayoutDashboard,
     path: "/dashboard",
   },
+  {
+    id: "06",
+    label: "Logout",
+    icon: LuLogOut,
+    path: "logout",
+  },
 ];
